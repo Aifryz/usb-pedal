@@ -1530,7 +1530,7 @@
     (pin "1" (uuid f40cf654-048f-4964-94e0-55eecae8a982))
     (pin "2" (uuid 509866ff-7758-48bc-aa78-ae44b6cdc779))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C13") (unit 1)
         )
@@ -1556,7 +1556,7 @@
     (pin "1" (uuid 0812a41a-8133-46d7-8727-e70a04f9aa4f))
     (pin "2" (uuid 6ff108b5-faff-4594-b033-d6e0626d44ed))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C8") (unit 1)
         )
@@ -1581,7 +1581,7 @@
     )
     (pin "1" (uuid 8ba3e409-b036-43a3-b32d-d0fc5b161fc2))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR017") (unit 1)
         )
@@ -1653,7 +1653,7 @@
     (pin "8" (uuid 18159101-f8f2-4583-90f1-530fed1d024f))
     (pin "9" (uuid 191d102a-bc2b-4b7f-b297-90a4d1b70c30))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "U1") (unit 1)
         )
@@ -1679,7 +1679,7 @@
     (pin "1" (uuid 18109830-a505-4d40-b349-c15f4e4fa287))
     (pin "2" (uuid b09f04f6-63a5-477b-abb7-b78ee004fe44))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R4") (unit 1)
         )
@@ -1704,7 +1704,7 @@
     )
     (pin "1" (uuid 2ce7b4c6-8afc-40e4-923a-d739096a80d4))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR09") (unit 1)
         )
@@ -1730,7 +1730,7 @@
     (pin "1" (uuid beb75e50-c17f-4f03-917d-a154a7dcb874))
     (pin "2" (uuid e755b9eb-b8a9-433b-880c-906eedbfbdc4))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C6") (unit 1)
         )
@@ -1756,7 +1756,7 @@
     (pin "1" (uuid 2d8269f9-3218-437d-ab0d-bc7545037810))
     (pin "2" (uuid ea693d68-606e-4a01-8891-0fbf2c67bb6e))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R1") (unit 1)
         )
@@ -1782,7 +1782,7 @@
     (pin "1" (uuid 016986e9-2b8a-4738-90a9-ddd6447f1d97))
     (pin "2" (uuid 608ef868-04f4-46a9-865e-4c049d4ee6b0))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C2") (unit 1)
         )
@@ -1807,7 +1807,7 @@
     )
     (pin "1" (uuid aac41f5c-d1d5-4805-9e4d-e1f577d212d9))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR014") (unit 1)
         )
@@ -1833,7 +1833,7 @@
     (pin "1" (uuid 2da995ed-a594-484a-9a6d-1556e35c9569))
     (pin "2" (uuid 09f3b66d-6ef2-4148-a8b4-dfbb8cca3e75))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C12") (unit 1)
         )
@@ -1859,7 +1859,7 @@
     (pin "1" (uuid d0e09c5e-d9fc-4fdc-ac2e-65e84cf8235f))
     (pin "2" (uuid 3714bbe5-fcad-43b3-9b76-cb44d6962f28))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C10") (unit 1)
         )
@@ -1884,7 +1884,7 @@
     )
     (pin "1" (uuid 95ffa187-fca3-40f6-9c39-37b37cbf6353))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR015") (unit 1)
         )
@@ -1909,7 +1909,7 @@
     )
     (pin "1" (uuid fac2e30d-10e3-4ea2-a577-086ba44c77a1))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR08") (unit 1)
         )
@@ -1935,7 +1935,7 @@
     (pin "1" (uuid 93c6a582-12ac-4adc-ba62-0a66a9309c53))
     (pin "2" (uuid d13fe22a-a58f-4413-9ea6-e4f70294a7f6))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C4") (unit 1)
         )
@@ -1960,7 +1960,7 @@
     )
     (pin "1" (uuid d0ed81b5-dc08-45bb-b2a2-be85f6d2668d))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR020") (unit 1)
         )
@@ -1986,7 +1986,7 @@
     (pin "1" (uuid bdc62cbb-e27f-4b1d-a997-275b1bca992b))
     (pin "2" (uuid 0f12f515-4496-4af6-b4d0-90519c048a6b))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R2") (unit 1)
         )
@@ -2012,7 +2012,7 @@
     (pin "1" (uuid 943bb2b7-9a11-48b0-8489-cc7d5b940949))
     (pin "2" (uuid ce318cee-9890-4c79-a7d4-acc2bdc76bc6))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R5") (unit 1)
         )
@@ -2037,7 +2037,7 @@
     )
     (pin "1" (uuid f3b7ea7c-e748-4449-ae2a-a9b82b6dca53))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR06") (unit 1)
         )
@@ -2062,7 +2062,7 @@
     )
     (pin "1" (uuid 7c8f25b7-9208-4476-a73e-dc32ecbede39))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR018") (unit 1)
         )
@@ -2087,7 +2087,7 @@
     )
     (pin "1" (uuid 5e1b4cd4-1c3d-40c1-98b7-a9280b0ba0ed))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR010") (unit 1)
         )
@@ -2112,7 +2112,7 @@
     )
     (pin "1" (uuid ed3260b1-1283-4c3a-9bd7-95a5673f9c0a))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR05") (unit 1)
         )
@@ -2146,7 +2146,7 @@
     (pin "8" (uuid 6f85e242-9623-4610-afb1-c93f3a92db2d))
     (pin "9" (uuid ebc3c804-172a-4c83-bfd4-ff575d022258))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "J2") (unit 1)
         )
@@ -2172,7 +2172,7 @@
     (pin "1" (uuid feeeeef0-f748-4aa6-b767-414a391555a4))
     (pin "2" (uuid a1178682-3f65-45dd-9d4c-f84838fe567c))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C5") (unit 1)
         )
@@ -2197,7 +2197,7 @@
     )
     (pin "1" (uuid 4a633002-d5b9-4ad5-a50a-2dae6c992fd2))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR012") (unit 1)
         )
@@ -2222,7 +2222,7 @@
     )
     (pin "1" (uuid b2f2d16c-b0e9-4d17-a106-127d100c33b2))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR021") (unit 1)
         )
@@ -2248,7 +2248,7 @@
     (pin "1" (uuid 571a3b11-cd60-4eeb-ab9b-949c2a795d8b))
     (pin "2" (uuid 11b4d6bc-ee66-4915-9922-0588ab6b88ea))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R3") (unit 1)
         )
@@ -2273,7 +2273,7 @@
     )
     (pin "1" (uuid 4c6f164c-6f7a-4cec-bb2e-f79485001e3c))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR016") (unit 1)
         )
@@ -2298,7 +2298,7 @@
     )
     (pin "1" (uuid 97553604-45e4-463c-a39c-01afd0a63f40))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR013") (unit 1)
         )
@@ -2323,7 +2323,7 @@
     )
     (pin "1" (uuid 44ad14b2-df9e-4d0c-98af-d5b2c1882516))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR01") (unit 1)
         )
@@ -2349,7 +2349,7 @@
     (pin "1" (uuid ae12d091-92f3-4b1b-a6e2-4fc69d29855a))
     (pin "2" (uuid 38472968-dd33-484b-a538-7ddb27a2f03d))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R8") (unit 1)
         )
@@ -2375,7 +2375,7 @@
     (pin "1" (uuid daf86c6c-67c1-485e-a1cb-54218b9978c6))
     (pin "2" (uuid 137209ab-e76e-4128-988d-f2c7670e0960))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C3") (unit 1)
         )
@@ -2400,7 +2400,7 @@
     )
     (pin "1" (uuid 786d58fa-18e9-42d1-89b6-f53efa88f9ef))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR03") (unit 1)
         )
@@ -2425,7 +2425,7 @@
     )
     (pin "1" (uuid 0903be56-d8e1-489c-bac8-45ef2dace7e4))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR019") (unit 1)
         )
@@ -2451,7 +2451,7 @@
     (pin "1" (uuid 55a7ef9c-78a0-40f5-b8f4-8c7adbdf4116))
     (pin "2" (uuid 5f30ff2f-e54d-4c58-997d-68ce9434bcd1))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R6") (unit 1)
         )
@@ -2477,7 +2477,7 @@
     (pin "1" (uuid 869dee1b-85eb-4240-86a1-2e34e943d2b1))
     (pin "2" (uuid 3f1ab8d9-38b6-4684-b752-7c9f198efcc7))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "Y1") (unit 1)
         )
@@ -2505,7 +2505,7 @@
     (pin "3" (uuid 9df1d42c-5913-4c88-bedb-5d8d03db882a))
     (pin "4" (uuid 54786051-1321-4298-ae85-05a9b225a66b))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "J1") (unit 1)
         )
@@ -2530,7 +2530,7 @@
     )
     (pin "1" (uuid 630bbbba-5a9a-4fc9-b927-08708cdd14e7))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR07") (unit 1)
         )
@@ -2555,7 +2555,7 @@
     )
     (pin "1" (uuid 20f4eaa0-2e70-4af2-92dd-74ac11421308))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "TP1") (unit 1)
         )
@@ -2580,7 +2580,7 @@
     )
     (pin "1" (uuid 6adaff29-a0a8-49f5-abf9-ee37be60a033))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR04") (unit 1)
         )
@@ -2605,7 +2605,7 @@
     )
     (pin "1" (uuid 15101f7d-8318-4dcb-981f-abc078df23b1))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR02") (unit 1)
         )
@@ -2631,7 +2631,7 @@
     (pin "1" (uuid b71cdad6-cb22-4539-ad0c-e5d0b4b14350))
     (pin "2" (uuid eae95e27-61f0-47ec-b6c6-a40799a319fe))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C11") (unit 1)
         )
@@ -2657,7 +2657,7 @@
     (pin "1" (uuid a3eba465-963c-42a6-9bfc-73c264f88c66))
     (pin "2" (uuid c4413398-3159-4303-ab32-3e9426f51f55))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "R7") (unit 1)
         )
@@ -2683,7 +2683,7 @@
     (pin "1" (uuid 2deccdd6-36ee-493e-8506-9e931f25925d))
     (pin "2" (uuid 33df42fb-06d4-49a0-9e3e-758a05e3d39d))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "D1") (unit 1)
         )
@@ -2709,7 +2709,7 @@
     (pin "1" (uuid d9425f2c-82e3-406d-a5b7-111762ed30d4))
     (pin "2" (uuid ab9befb5-dfe0-4da1-88b4-948211381cff))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C9") (unit 1)
         )
@@ -2735,7 +2735,7 @@
     (pin "1" (uuid d1761ce9-e50d-4660-b453-c1b51b94d92f))
     (pin "2" (uuid b5ae4a52-3bca-4fcc-a5a8-2724f5b71051))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C14") (unit 1)
         )
@@ -2761,7 +2761,7 @@
     (pin "1" (uuid 01c2a8a4-3d38-4c27-9d47-6a03f39543a0))
     (pin "2" (uuid e7eb8875-02f7-4e7d-a974-f4dfe664a3cd))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C1") (unit 1)
         )
@@ -2790,7 +2790,7 @@
     (pin "4" (uuid a4d00036-9aaf-4f60-9cde-5c3ba07c61ab))
     (pin "5" (uuid 16704907-642a-4bb8-af29-8f6ab0908416))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "U2") (unit 1)
         )
@@ -2815,7 +2815,7 @@
     )
     (pin "1" (uuid 200a547d-b9b5-4f80-a48d-8589439e4cb4))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "#PWR011") (unit 1)
         )
@@ -2841,7 +2841,7 @@
     (pin "1" (uuid 31f092be-abee-4882-b69f-61f583c5a8d1))
     (pin "2" (uuid 2edbb108-003b-49ba-b2f2-3bad56416f13))
     (instances
-      (project "usb_pedal_pcb"
+      (project "mini-pill"
         (path "/5b22ac61-4c45-42d8-aa44-8d8dc5da4462"
           (reference "C7") (unit 1)
         )
