@@ -1,0 +1,6 @@
+.metadata/*
+usb-pedal/.settings/*
+usb-pedal/.mxproject
+usb-pedal/.project
+usb-pedal/.cproject
+usb-pedal/Debug
